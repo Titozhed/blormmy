@@ -1,2 +1,2 @@
 # blormmy
-A quirky, multipurpose CLI tool that generates random stuff — from startup ideas and fake users to haikus, passwords, lorem ipsum, color palettes, and more. Perfect for testing, prototyping, or just having fun.
+A lightweight Python CLI app that spits out creative randomness on demand — perfect for mock data, creative sparks, or just killing boredom. Generate everything from fake users and startup ideas to secure passwords and aesthetic palettes.
